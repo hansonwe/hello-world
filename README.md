@@ -1,2 +1,5 @@
 # hello-world
-Just something to start
+
+Hello everyone!
+
+Bill H here!  I'm a professor and am learning more about Python.
